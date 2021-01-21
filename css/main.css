@@ -2057,7 +2057,7 @@ input::-moz-focus-inner {
   content: "";
   display: block;
   height: 2px;
-  width: 8rem;
+  width: 10rem;
   background-color: #f9861a;
   position: absolute;
   left: -10.8rem;
@@ -2309,7 +2309,7 @@ html.no-csstransitions .hero-content {
   }
 
   .hero-content h1::before {
-    width: 6rem;
+    width: 10rem;
     left: -8.8rem;
   }
 
